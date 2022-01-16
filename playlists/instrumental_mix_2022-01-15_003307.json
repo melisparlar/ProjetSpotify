@@ -1,0 +1,119 @@
+[
+    {
+        "id": "0qp6Lb9vWLBD45HrHJvylX",
+        "name": "Random - Instrumental",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.671,
+            "instrumentalness": 0.878,
+            "valence": 0.268
+        }
+    },
+    {
+        "id": "5BzdRcNVddU5ZBaR9tJQIw",
+        "name": "Bir Aşk Sonrası Sessizlik",
+        "artist": {
+            "id": "3r5oPuQFzZvEDpnV7hZ7xq",
+            "name": "Sezgin Alkan"
+        },
+        "analysis": {
+            "danceability": 0.346,
+            "instrumentalness": 0.89,
+            "valence": 0.121
+        }
+    },
+    {
+        "id": "44iPQtQBjcTvD6H2XCTTcZ",
+        "name": "Fête de trop - Instrumental",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.611,
+            "instrumentalness": 0.845,
+            "valence": 0.302
+        }
+    },
+    {
+        "id": "5kLSJ2XyH4mCmH0hD3eZay",
+        "name": "Yol",
+        "artist": {
+            "id": "0iOvtl1pydfRgGpJWOOP8E",
+            "name": "Büşra Kayıkçı"
+        },
+        "analysis": {
+            "danceability": 0.22,
+            "instrumentalness": 0.874,
+            "valence": 0.185
+        }
+    },
+    {
+        "id": "6LfA9Sj2fZM2XmFFYmzKSm",
+        "name": "Interlude",
+        "artist": {
+            "id": "2pHk4wAmL7ofTAuvCIUWtv",
+            "name": "Roméo Elvis"
+        },
+        "analysis": {
+            "danceability": 0.409,
+            "instrumentalness": 0.895,
+            "valence": 0.152
+        }
+    },
+    {
+        "id": "2itCFwpM6veR9DlRcKDKo9",
+        "name": "Slow Black River",
+        "artist": {
+            "id": "4M5nCE77Qaxayuhp3fVn4V",
+            "name": "Iron & Wine"
+        },
+        "analysis": {
+            "danceability": 0.592,
+            "instrumentalness": 0.833,
+            "valence": 0.395
+        }
+    },
+    {
+        "id": "5YfZknxIgQayJKaMn5Z11G",
+        "name": "Last Song",
+        "artist": {
+            "id": "58R31AvN8JMHM7xkNpVLjX",
+            "name": "Alexis Ffrench"
+        },
+        "analysis": {
+            "danceability": 0.431,
+            "instrumentalness": 0.933,
+            "valence": 0.29
+        }
+    },
+    {
+        "id": "4O0SGm13ZshbxUGdRFH6si",
+        "name": "Beyazlar",
+        "artist": {
+            "id": "3r5oPuQFzZvEDpnV7hZ7xq",
+            "name": "Sezgin Alkan"
+        },
+        "analysis": {
+            "danceability": 0.365,
+            "instrumentalness": 0.901,
+            "valence": 0.0736
+        }
+    },
+    {
+        "id": "28fGkxi1s9K9w6igwU1Z6R",
+        "name": "Kid - Instrumental",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.725,
+            "instrumentalness": 0.887,
+            "valence": 0.159
+        }
+    }
+]

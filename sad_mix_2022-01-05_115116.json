@@ -1,0 +1,431 @@
+[
+    {
+        "id": "5Bjjf2Vj3dCaGetKlXS4be",
+        "name": "J'ai vu",
+        "artist": {
+            "id": "2pHk4wAmL7ofTAuvCIUWtv",
+            "name": "Roméo Elvis"
+        },
+        "analysis": {
+            "danceability": 0.506,
+            "instrumentalness": 3.95e-06,
+            "valence": 0.176
+        }
+    },
+    {
+        "id": "5BzdRcNVddU5ZBaR9tJQIw",
+        "name": "Bir Aşk Sonrası Sessizlik",
+        "artist": {
+            "id": "3r5oPuQFzZvEDpnV7hZ7xq",
+            "name": "Sezgin Alkan"
+        },
+        "analysis": {
+            "danceability": 0.346,
+            "instrumentalness": 0.89,
+            "valence": 0.121
+        }
+    },
+    {
+        "id": "28fGkxi1s9K9w6igwU1Z6R",
+        "name": "Kid - Instrumental",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.725,
+            "instrumentalness": 0.887,
+            "valence": 0.159
+        }
+    },
+    {
+        "id": "2CXI7v5l3YLNlmx4mve2Xb",
+        "name": "Beaulieue",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.63,
+            "instrumentalness": 0,
+            "valence": 0.134
+        }
+    },
+    {
+        "id": "7JABqLtUM6HlzcsmQjSh8u",
+        "name": "Shine On",
+        "artist": {
+            "id": "7KMqksf0UMdyA0UCf4R3ux",
+            "name": "James Blunt"
+        },
+        "analysis": {
+            "danceability": 0.363,
+            "instrumentalness": 7.43e-05,
+            "valence": 0.19
+        }
+    },
+    {
+        "id": "5wV9qBbU8cwDKJLpCIdzkz",
+        "name": "Comme ça",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.391,
+            "instrumentalness": 0,
+            "valence": 0.174
+        }
+    },
+    {
+        "id": "7IHOIqZUUInxjVkko181PB",
+        "name": "Stay With Me",
+        "artist": {
+            "id": "2wY79sveU1sp5g7SokKOiI",
+            "name": "Sam Smith"
+        },
+        "analysis": {
+            "danceability": 0.5,
+            "instrumentalness": 0.000193,
+            "valence": 0.176
+        }
+    },
+    {
+        "id": "17avURbq8QQo7kQDU6xN6L",
+        "name": "Parano (with -M-)",
+        "artist": {
+            "id": "2pHk4wAmL7ofTAuvCIUWtv",
+            "name": "Roméo Elvis"
+        },
+        "analysis": {
+            "danceability": 0.418,
+            "instrumentalness": 0.00111,
+            "valence": 0.122
+        }
+    },
+    {
+        "id": "5gJTFGsEWpjma28XdJbkWP",
+        "name": "Motel",
+        "artist": {
+            "id": "4YUcg2ee9TxMNdjhAxzZBF",
+            "name": "Ashkidd"
+        },
+        "analysis": {
+            "danceability": 0.393,
+            "instrumentalness": 0.0102,
+            "valence": 0.0966
+        }
+    },
+    {
+        "id": "4O0SGm13ZshbxUGdRFH6si",
+        "name": "Beyazlar",
+        "artist": {
+            "id": "3r5oPuQFzZvEDpnV7hZ7xq",
+            "name": "Sezgin Alkan"
+        },
+        "analysis": {
+            "danceability": 0.365,
+            "instrumentalness": 0.901,
+            "valence": 0.0736
+        }
+    },
+    {
+        "id": "5kLSJ2XyH4mCmH0hD3eZay",
+        "name": "Yol",
+        "artist": {
+            "id": "0iOvtl1pydfRgGpJWOOP8E",
+            "name": "Büşra Kayıkçı"
+        },
+        "analysis": {
+            "danceability": 0.22,
+            "instrumentalness": 0.874,
+            "valence": 0.185
+        }
+    },
+    {
+        "id": "3kr4Wpva909tUnMquFv1rb",
+        "name": "You're Gonna Break My Heart Tonight",
+        "artist": {
+            "id": "2txHhyCwHjUEpJjWrEyqyX",
+            "name": "Tom Odell"
+        },
+        "analysis": {
+            "danceability": 0.287,
+            "instrumentalness": 0.000723,
+            "valence": 0.142
+        }
+    },
+    {
+        "id": "3iXhLi33EpUfcOwasC8un1",
+        "name": "Ta reine",
+        "artist": {
+            "id": "3QVolfxko2UyCOtexhVTli",
+            "name": "Angèle"
+        },
+        "analysis": {
+            "danceability": 0.668,
+            "instrumentalness": 3.98e-06,
+            "valence": 0.127
+        }
+    },
+    {
+        "id": "3o1cohFfwd57rAvrbyVE5e",
+        "name": "Love Love Love",
+        "artist": {
+            "id": "4dwdTW1Lfiq0cM8nBAqIIz",
+            "name": "Of Monsters and Men"
+        },
+        "analysis": {
+            "danceability": 0.324,
+            "instrumentalness": 8.98e-05,
+            "valence": 0.16
+        }
+    },
+    {
+        "id": "5xoAhaCO0k4hi8mQcVAb7Q",
+        "name": "Maman - Single",
+        "artist": {
+            "id": "3OiQ1K5uuHHAjM9yd3Y0rn",
+            "name": "Beyries"
+        },
+        "analysis": {
+            "danceability": 0.404,
+            "instrumentalness": 0.0876,
+            "valence": 0.123
+        }
+    },
+    {
+        "id": "7LQOkr8kWT7Giwa8DMP3x0",
+        "name": "Vem kan segla förutan vind",
+        "artist": {
+            "id": "5OQH227mp5lICMwlXSMkVz",
+            "name": "Sov Gott"
+        },
+        "analysis": {
+            "danceability": 0.586,
+            "instrumentalness": 3.43e-05,
+            "valence": 0.157
+        }
+    },
+    {
+        "id": "1J9mWBb7CIr8kZ2v47iHHe",
+        "name": "Tout lâcher - Colors Session",
+        "artist": {
+            "id": "1Yfe3ONJlioHys7jwHdfVm",
+            "name": "Lomepal"
+        },
+        "analysis": {
+            "danceability": 0.404,
+            "instrumentalness": 0.00846,
+            "valence": 0.0611
+        }
+    },
+    {
+        "id": "13CyXxYgWD9N5KwWqRYU1U",
+        "name": "It Will Come Back",
+        "artist": {
+            "id": "2FXC3k01G6Gw61bmprjgqS",
+            "name": "Hozier"
+        },
+        "analysis": {
+            "danceability": 0.501,
+            "instrumentalness": 4.83e-06,
+            "valence": 0.154
+        }
+    },
+    {
+        "id": "05pKAafT85jeeNhZ6kq7HT",
+        "name": "I Won't Give Up",
+        "artist": {
+            "id": "4phGZZrJZRo4ElhRtViYdl",
+            "name": "Jason Mraz"
+        },
+        "analysis": {
+            "danceability": 0.585,
+            "instrumentalness": 0,
+            "valence": 0.142
+        }
+    },
+    {
+        "id": "3m3y3Ruvotv2IsM7wWI08I",
+        "name": "Rue de Moscou",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.662,
+            "instrumentalness": 3.57e-06,
+            "valence": 0.1
+        }
+    },
+    {
+        "id": "0HZhYMZOcUzZKSFwPOti6m",
+        "name": "Jar of Hearts",
+        "artist": {
+            "id": "7H55rcKCfwqkyDFH9wpKM6",
+            "name": "Christina Perri"
+        },
+        "analysis": {
+            "danceability": 0.349,
+            "instrumentalness": 0,
+            "valence": 0.0886
+        }
+    },
+    {
+        "id": "6A0cjCHd6P3dT9qr6yhB1R",
+        "name": "The Best Thing",
+        "artist": {
+            "id": "4U2U8coMS54J92NPOrP8Xm",
+            "name": "Doveman"
+        },
+        "analysis": {
+            "danceability": 0.511,
+            "instrumentalness": 0.261,
+            "valence": 0.0797
+        }
+    },
+    {
+        "id": "75BItG7O8OQg5QyWffhLQ0",
+        "name": "Jimmy Sparks",
+        "artist": {
+            "id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "name": "The Lumineers"
+        },
+        "analysis": {
+            "danceability": 0.503,
+            "instrumentalness": 3.75e-05,
+            "valence": 0.193
+        }
+    },
+    {
+        "id": "1drUAdX3NY4dTieuxdedLY",
+        "name": "Smother",
+        "artist": {
+            "id": "46CitWgnWrvF9t70C2p1Me",
+            "name": "Daughter"
+        },
+        "analysis": {
+            "danceability": 0.507,
+            "instrumentalness": 0.0777,
+            "valence": 0.115
+        }
+    },
+    {
+        "id": "6LfA9Sj2fZM2XmFFYmzKSm",
+        "name": "Interlude",
+        "artist": {
+            "id": "2pHk4wAmL7ofTAuvCIUWtv",
+            "name": "Roméo Elvis"
+        },
+        "analysis": {
+            "danceability": 0.409,
+            "instrumentalness": 0.895,
+            "valence": 0.152
+        }
+    },
+    {
+        "id": "3ryiQYyGqcN7soRuZpSWID",
+        "name": "Grave",
+        "artist": {
+            "id": "7rFugkk9ZvVB1zXHg8h0rj",
+            "name": "Eddy de Pretto"
+        },
+        "analysis": {
+            "danceability": 0.57,
+            "instrumentalness": 0,
+            "valence": 0.0842
+        }
+    },
+    {
+        "id": "5uVji14OWpj9HMKLXdhjAv",
+        "name": "This Summer",
+        "artist": {
+            "id": "04gDigrS5kc9YWfZHwBETP",
+            "name": "Maroon 5"
+        },
+        "analysis": {
+            "danceability": 0.54,
+            "instrumentalness": 0,
+            "valence": 0.176
+        }
+    },
+    {
+        "id": "75JnGGw0v8X869SJ25LyNa",
+        "name": "Tesla",
+        "artist": {
+            "id": "6NBA1GBrRG7fxTPDjKwFxm",
+            "name": "Nusky"
+        },
+        "analysis": {
+            "danceability": 0.827,
+            "instrumentalness": 0,
+            "valence": 0.198
+        }
+    },
+    {
+        "id": "7CBXiV6q0kPOms002HJyoM",
+        "name": "Annecy",
+        "artist": {
+            "id": "41Ue54Vb6iWx2dcdRCM6oH",
+            "name": "Kazy Lambist"
+        },
+        "analysis": {
+            "danceability": 0.612,
+            "instrumentalness": 0.534,
+            "valence": 0.109
+        }
+    },
+    {
+        "id": "1gs1wX1reGRMb775gtQNCs",
+        "name": "I Don't Wanna See You with Her",
+        "artist": {
+            "id": "3rTRHzFfbTk5GL3LpYZGHR",
+            "name": "Maria Mena"
+        },
+        "analysis": {
+            "danceability": 0.562,
+            "instrumentalness": 0,
+            "valence": 0.157
+        }
+    },
+    {
+        "id": "4HdkKc5WyRLi1ggP0RaDfg",
+        "name": "The Colour Of Spring",
+        "artist": {
+            "id": "1dKzjmxVJw8SSE0LVxW2Dp",
+            "name": "Mark Hollis"
+        },
+        "analysis": {
+            "danceability": 0.486,
+            "instrumentalness": 0.14,
+            "valence": 0.0995
+        }
+    },
+    {
+        "id": "1o4J7at7v0R9QZHt0PlCHT",
+        "name": "Jubilee Road",
+        "artist": {
+            "id": "2txHhyCwHjUEpJjWrEyqyX",
+            "name": "Tom Odell"
+        },
+        "analysis": {
+            "danceability": 0.457,
+            "instrumentalness": 0,
+            "valence": 0.185
+        }
+    },
+    {
+        "id": "7DF6taQdlNvkzyAfxURv7g",
+        "name": "Queen of Diamonds",
+        "artist": {
+            "id": "2txHhyCwHjUEpJjWrEyqyX",
+            "name": "Tom Odell"
+        },
+        "analysis": {
+            "danceability": 0.467,
+            "instrumentalness": 6.59e-06,
+            "valence": 0.197
+        }
+    }
+]
